@@ -1,9 +1,11 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!DOCTYPE html>
 <html>
 <head>
-    <title> DevOps </title>
+    <title>E-commerce Application</title>
 </head>
 <body>
-    <h2><%= "Hello ISET KAIROUAN DANS VOTRE COURS DEVOPS DE L'AU 2025-2026 GIT-->GITHUB-->JENKINS-->TOMCAT--pipeline ci-cd"  %></h2>
+    <h1>Hello E-commerce!</h1>
+    <p>Build with Jenkins and Maven</p>
+    <p>ISET Kairouan - DevOps 2025-2026</p>
 </body>
 </html>
